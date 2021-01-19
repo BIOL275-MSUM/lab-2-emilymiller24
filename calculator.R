@@ -6,8 +6,8 @@
 #   2. Edit the code to complete the self assessment
 #   3. Copy chunks of the final code to your R Markdown document calculator.Rmd
 
-k <- c(1, 2, 10, 4.7, 5.0)
-k
+k <- c(6.05, 4.89, 3.32, 4.93, 5.25, 5.04, 4.91, 2.84, 5.60, 5.34)
+
 
 length(k)  # sample size
 median(k)  # median value
