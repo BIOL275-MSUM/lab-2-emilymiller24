@@ -1,6 +1,6 @@
 ---
 title: "Lab 2 Assignment"
-author: "___"
+author: "Emily Miller___"
 date: "`r format(Sys.Date())`"
 output: github_document
 ---
@@ -104,4 +104,11 @@ ggplot(chick_data, aes(x = diet, y = weight, color = diet, fill = diet)) +
     y = "Weight (g)"
   )
 
+```
+## Session Info
+
+Here is my session information:
+
+```{r}
+sessioninfo::session_info()
 ```

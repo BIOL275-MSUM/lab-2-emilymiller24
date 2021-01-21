@@ -21,7 +21,7 @@ The objectives of this lab are:
 The repository contains the following scripts:
 
 - [calculator.R](calculator.R)
-- [calculator.Rmd](calculator.Rmd)
+- [assignment.md](calculator.Rmd)
 
 ## Instructions for knitting
 
