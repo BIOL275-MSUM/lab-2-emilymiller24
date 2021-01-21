@@ -10,13 +10,11 @@ MSUM.
 
 The objectives of this lab are:
 
-  - 
-    
-    -----
-
-  - 
-    
-    -----
+  - Use the console and source windows in RStudio
+  - Write and run code in an R script
+  - Document your R code with comments
+  - Transfer code from an R script to an R Markdown document
+  - Craft a narrative combining text explanation, code, and graphs
 
 ## Repository contents
 
