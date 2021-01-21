@@ -3,8 +3,6 @@ Lab 2: Introduction to RStudio
 Emily Miller\_\_\_
 2021-01-21
 
-> INSTRUCTIONS: REMOVE THIS LINE AND REPLACE \_\_\_\_ WITH YOUR OWN TEXT
-
 Welcome to my Lab 2 repository for Quantitative Biology BIOL 275 at
 MSUM.
 
